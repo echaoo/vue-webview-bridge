@@ -10,6 +10,10 @@
   "scripts": {
     "build": "node build/build.js"
   },
+  "files": [
+    "src/*.js",
+    "dist/*.js"
+  ],
   "dependencies": {},
   "devDependencies": {
     "rollup": "^0.56.4",
