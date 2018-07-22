@@ -1,7 +1,7 @@
 {
   "name": "vue-webview-bridge",
   "description": "A Vue.js project",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "echaoo <zmk181@gmail.com>",
   "license": "MIT",
   "private": false,
